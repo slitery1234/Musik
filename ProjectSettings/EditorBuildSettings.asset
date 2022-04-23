@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ZMainMenu.unity
+    guid: 32552513dc5db6d4984e264467102555
+  - enabled: 1
+    path: Assets/Scenes/Select.unity
+    guid: 645852585094ff24ab2f6110aa8686ac
+  - enabled: 1
+    path: Assets/Scenes/HuaSuiYue.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lemon.unity
+    guid: 62a8179631ca6254fabfffd9646f25ba
+  - enabled: 1
+    path: Assets/Scenes/FreedomDive.unity
+    guid: c6593ec32ca1eb94390f6cd0aeab8add
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 044ed72b251bd2a49ab43b5ff3c23731
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 47747d329cbfa9643ab57f1814b6e3d1
+  m_configObjects: {}
